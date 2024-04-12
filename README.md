@@ -1,6 +1,6 @@
 # Bug Database
 
-Authors: Saihaan, Arya, Rohith, Sarthak, Khang
+Authors: Saihaan, Arya, Rohith, Sarthak Pradhan, Khang
 
 ## How to Run
 
